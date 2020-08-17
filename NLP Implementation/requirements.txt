@@ -1,0 +1,5 @@
+pip install speechrecognition
+pip install webbrowser
+pip install pyaudio
+pip install gtts
+pip install pyttsx3
